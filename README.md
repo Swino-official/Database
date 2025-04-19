@@ -33,7 +33,7 @@ A **database** is an organized collection of data that can be easily accessed, m
    - Hosted on cloud services like AWS, Azure, or Google Cloud.
    - Scalable and accessible online.
 
----
+
 
 ## **Why Use a Database?**
 - To store large amounts of data efficiently.
